@@ -1,10 +1,10 @@
-package cat.itacademy.barcelonactiva.sansaverdu.pau.s04.t01.n02;
+package cat.itacademy.barcelonactiva.santos.santiago.s04.t01.n02;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class S04T01N02SansaVerduPauApplicationTests {
+class S04T01N02SantosSantiagoApplicationTests {
 
 	@Test
 	void contextLoads() {
